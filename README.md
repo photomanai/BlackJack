@@ -1,21 +1,14 @@
-# Single Page Website
+# Blackjack Game
 
-This project is a simple single page website created using HTML and CSS.
+This project is a simple terminal-based Blackjack game implemented in Python. It allows you to play a game of Blackjack against the dealer directly from your terminal.
 
 ## Features
 
-- Single page layout
-- Simple and clean code
+- Play Blackjack against a computer dealer
+- Basic game mechanics including hitting, standing, and betting
+- Simple text-based user interface
+- Implemented in Python
 
 ## Technologies Used
 
-- HTML
-- CSS
-
-## Installation
-
-To clone the project to your local machine, use the following command:
-
-```sh
-git clone https://github.com/yourusername/projectname.git
-```
+- Python 3.9
